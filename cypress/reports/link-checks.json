@@ -1,0 +1,3190 @@
+{
+  "links": [
+    {
+      "url": "https://drupal.apollohospitals.com/",
+      "status": 200,
+      "state": "OK",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/company-overview/the-apollo-story",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "http://drupal.apollohospitals.com/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://cdn.apollohospitals.com/dev-apollohospitals/apollo_pdf/circular-inviting-unsecured-deposits.pdf",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apolloari.com/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/management/ms-suneeta-reddy-managing-director",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/management/ms-shobana-kamineni-promoter-director",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://aherf.co.in/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/management/dr-prathap-c-reddy-founder-chairman",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate-social-responsibility",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/management/dr-preetha-reddy-executive-vice-chairperson",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/management/dr-sangita-reddy-joint-managing-director",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-policies",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-governance/letters-of-appointment",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/themes/custom/apollo/assets/images/apollo-favicon.ico",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/css/css_dV2FpXPgBqjQqoXbEOIVXl7qO7Vnp2g_XGvTl8YSVcI.css?delta=3&language=en&theme=apollo&include=eJyVlVuymzAMhjeEYaYbYoStgCbGIrI5KbuvwqWh7bFJX0jM_1k3ywKcSwxhaWD_U9-EQ6pgYu-56Tzb-7Gw4H0H9m5uLOPxsvfcgT9WI7v3QvAxY0zm230RbSIOv5eeHJonpcGACD8r60HUHjqC1lMnIEudBhxxU9o_lHZVmqxSWRaVeZw4YEix3rwa07FbTMKfKUtYEGccJiAf8xBPi1A_FMwkyGqOIkJEo0-xw1alHHuDRz6Ml2goYWE7c0K5kI1WLrgr6DrnHRwxzJ8wRrB_dcQFmnjKItqMMeqpG0_hnq9TL-SKJ3IA6-lnqQHBaUAXYQ8obDoIoVB3GqHHtQ_NduM-Bcun_S2dL8s_-HopP4965_8zptOmfGjrnd72FphCn22DKacGfMarbE9MOcPHTJrWqwM_QPIp_z09s2BkS-DLDk9M3mOc8EVRWsp9f-IuapY0ARo5KJ13e4bKlV275h2ak3kCX2tneO4rDwvPqe1m8hpSk55s2bfHZ2ZXddRa_kJZGjWtejWCzhQ10JLlEJtO57AWCasJBHqBaYiHm_ebeg7T3HmKA7pKeXXxo9l_65FCFZeoaazGqi_SvmnWZ61NOHv8BZ_h2tc",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://cdn.apollohospitals.com/dev-apollohospitals/apollo_pdf/SAP-Reorganisation-Nov-18.pdf",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-governance/board-committees",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/academic-research",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/css/css_p6tKamUpBgiFRfUiNbxWX-IyHAdeM3GAp0rezHNXi4s.css?delta=2&language=en&theme=apollo&include=eJyVlVuymzAMhjeEYaYbYoStgCbGIrI5KbuvwqWh7bFJX0jM_1k3ywKcSwxhaWD_U9-EQ6pgYu-56Tzb-7Gw4H0H9m5uLOPxsvfcgT9WI7v3QvAxY0zm230RbSIOv5eeHJonpcGACD8r60HUHjqC1lMnIEudBhxxU9o_lHZVmqxSWRaVeZw4YEix3rwa07FbTMKfKUtYEGccJiAf8xBPi1A_FMwkyGqOIkJEo0-xw1alHHuDRz6Ml2goYWE7c0K5kI1WLrgr6DrnHRwxzJ8wRrB_dcQFmnjKItqMMeqpG0_hnq9TL-SKJ3IA6-lnqQHBaUAXYQ8obDoIoVB3GqHHtQ_NduM-Bcun_S2dL8s_-HopP4965_8zptOmfGjrnd72FphCn22DKacGfMarbE9MOcPHTJrWqwM_QPIp_z09s2BkS-DLDk9M3mOc8EVRWsp9f-IuapY0ARo5KJ13e4bKlV275h2ak3kCX2tneO4rDwvPqe1m8hpSk55s2bfHZ2ZXddRa_kJZGjWtejWCzhQ10JLlEJtO57AWCasJBHqBaYiHm_ebeg7T3HmKA7pKeXXxo9l_65FCFZeoaazGqi_SvmnWZ61NOHv8BZ_h2tc",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-governance/annual-general-meetings",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-actions",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/investor-relations/advertisements",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate-governance/postal-ballot-notice",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollo247.com/guest-health-records",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate-page",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/bangalore",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/investor-relations/contact-details",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/alumni",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/ahmedabad",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/latest-news-about-apollo",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-aragonda",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/guwahati",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-bhubaneshwar",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/bilaspur",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/chennai",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/delhi",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-indore",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/kolkata",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-reach-hospital-karaikudi",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospital-karur",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/madurai",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-mumbai",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/lucknow/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-kakinada",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-bgs-hospitals-mysore",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-super-speciality-hospital-rourkela",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/ambulance-services",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-specialty-hospitals-nellore",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-speciality-hospitals-trichy",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://pay.apollohospitals.com/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/neurology-neurosurgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/orthopedic",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/heart",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/oncology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/insurance-partners",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/hyderabad",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/css/css_QtD5-QLAzDGf0IfhRmRPdSM3gNigeDL1TkYjf3nYRG0.css?delta=0&language=en&theme=apollo&include=eJyVlVuymzAMhjeEYaYbYoStgCbGIrI5KbuvwqWh7bFJX0jM_1k3ywKcSwxhaWD_U9-EQ6pgYu-56Tzb-7Gw4H0H9m5uLOPxsvfcgT9WI7v3QvAxY0zm230RbSIOv5eeHJonpcGACD8r60HUHjqC1lMnIEudBhxxU9o_lHZVmqxSWRaVeZw4YEix3rwa07FbTMKfKUtYEGccJiAf8xBPi1A_FMwkyGqOIkJEo0-xw1alHHuDRz6Ml2goYWE7c0K5kI1WLrgr6DrnHRwxzJ8wRrB_dcQFmnjKItqMMeqpG0_hnq9TL-SKJ3IA6-lnqQHBaUAXYQ8obDoIoVB3GqHHtQ_NduM-Bcun_S2dL8s_-HopP4965_8zptOmfGjrnd72FphCn22DKacGfMarbE9MOcPHTJrWqwM_QPIp_z09s2BkS-DLDk9M3mOc8EVRWsp9f-IuapY0ARo5KJ13e4bKlV275h2ak3kCX2tneO4rDwvPqe1m8hpSk55s2bfHZ2ZXddRa_kJZGjWtejWCzhQ10JLlEJtO57AWCasJBHqBaYiHm_ebeg7T3HmKA7pKeXXxo9l_65FCFZeoaazGqi_SvmnWZ61NOHv8BZ_h2tc",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospital/visakhapatnam",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/facilities/hospitals",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/general-medicine",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/pediatrics",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-nashik",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/gastroenterology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/bariatric-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/emergency-trauma-care-services",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/vascular-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/cosmetology-plastic-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/obstetrics-and-gynaecology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/pulmonology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/urology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/excellence-eye-care",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/radiology-imaging",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/awards-accolades/management",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/disease-and-condition/chronic-kidney-disease-ckd",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/everything-you-need-know-about-chronic-obstructive-pulmonary-disease-copd",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/breast-cancer",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/diabetes-care-elderly-pragmatic-approach",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/brain-cancer",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/coronary-artery-disease-women",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/financial-reports/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/colorectal-cancer",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/disease-and-condition/kidney-stones",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/irritable-bowel-syndrome-ibs-symptoms-treatment-and-causes",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/nclt-convened-meeting/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/hypertension-causes-symptoms-and-treatment/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/academics-research/clinical-research/recognition-of-published-papers/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/annual-reports/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/liver-cirrhosis",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/disclosures-under-regulations-46-62-of-the-sebi-lodr/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/epilepsy",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://apollosage.in/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/all-you-want-know-about-osteoarthritis",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/leukemia/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/pcod-polycystic-ovarian-disease-and-pcos-causes-symptoms-diagnosis-diet-and",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/shareholding-pattern/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/amyotrophic-lateral-sclerosis-als-types-causes-symptoms-treatment",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/what-parkinsons-disease",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/investor-presentation/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/results-earnings-presentations/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/dermatology-types-of-skin-diseases/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/stroke-types-symptoms-and-treatment",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/stroke",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/hernia",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/symptoms-and-side-effects-of-thyroid-disorders/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/causes-and-symptoms-rheumatoid-arthritis",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporatergt-investor-relations/corporatergt-unclaimed-dividends/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions/brain-tumour",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/procedures/total-hip-replacement-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/procedures/total-knee-replacement",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/procedures/understanding-transcatheter-aortic-valve-replacement-%28TAVR%29",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/all-about-mitral-valve-repair/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/blurred-vision",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/departments/emergency-trauma-care-services/air-ambulance-services/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/emergency-trauma-care-services/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/cervical-lymphadenopathy",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/chest-pain-why-you-shouldnt-ignore-it/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/what-is-hemoptysis-coughing-up-blood/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/esophoria",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/blue-sclera",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/book-second-opinion/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/robotics-surgery/da-vinci-robotic-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/robotics-surgery/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/navio-and-cori-robotic-surgery-systems/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/cyberknife-by-accuray/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/meril-cuvis-robotic-surgery-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/ent/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/international-patient-services",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/stryker-mako-robotic-surgery-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/transplantation/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/preventivehealth/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/linac-linear-accelerator-radiation-therapy-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/international-patient-services/plan-your-trip/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/rezum-water-vapor-therapy-for-enlarged-prostate/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/regulatory-filings/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/9-16_Banner_Video.mp4",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Banner_Loop_x_ver_5x720.mp4",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/contact-us",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/procedures/minimally-invasive-knee-replacement-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/frequent-urination",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/ai-based-stroke-diagnosis-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://apollouniversity.edu.in/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/patient-care/patient-information-guide/apollo-preventive-health-check/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/departments/preventivehealth/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/international-patient-services/hospitals/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/symptoms/adult-jaundice",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://ur.life/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/bone-marrow-transplant/indications/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/critical-care/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/search",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/centres-of-excellence",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/340",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/336",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/334",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/18",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/342",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/338",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/341",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/335",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/coronary-artery-bypass-grafting-cabg/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/339",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/rectal-bleeding/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/343",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/3-tesla-mri-scanner/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/extracorporeal-shockwave-lithotripsy/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/understanding-kidney-transplants/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/robotics-surgery/robotic-surgical-procedures/robotics-in-spine-surgery/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/480",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/transplantation/lung/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/171",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diseases-and-conditions/paralysis/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/364",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/366",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/367",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/371",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/365",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/3d-neuro-navigation-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/extracorporeal-membrane-oxygenation-ecmo-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/368",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/372",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/370",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/moses-2-0-laser-technology-for-urology/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/373",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-01/cardiac.jpg.webp?itok=08mn0do9",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/369",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/378",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-02/Search%20Icon.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/381",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/hospitals.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/379",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/385",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/386",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/375",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/health-library/category/health-a-z/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/374",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/382",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/376",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/mri/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/extracorporeal-shock-wave-therapy-eswt-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/377",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/phone-outlined_1.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/128-slice-ct-scanner/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/icon-dev-3.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/383",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/384",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/380",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/health-library/technology/stereotactic-neurosurgery-system/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-02/lab.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/oncology_2.jpg.webp?itok=A8INUCKC",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/car-t-cell-therapy/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/cardiac.jpg.webp?itok=DyNbnmeh",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/neuroscience.jpg.webp?itok=5BsxWpOT",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/abdominal-hysterectomy/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-02/Doctor_2.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diseases-and-conditions/what-is-thrombosis-what-are-the-first-signs-of-thrombosis/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apolloadluxhospital.co/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/gastroenterology/treatment/liver-transplants/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/coronary-angioplasty-and-stents/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diseases-and-conditions/headache/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-01/oncology_2.jpg.webp?itok=16uUJu0g",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/orthopedics.jpg.webp?itok=oaPQWRTi",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/transplant.jpg.webp?itok=o-qrlMbR",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2833%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2838%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2836%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Bhopal.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-01/neuroscience.jpg.webp?itok=ialShkdk",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Bilaspur.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Ahmedabad_1.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2835%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/department-coe-pages/apollo-cancer-centres-pioneering-excellence-global-cancer-care",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/department-coe-pages/apollo-institute-neurosciences-indias-leading-neurology-neurosurgery-hospitals",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Bangalore.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/cardiac-pet-scan/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/what-is-a-spect-scan-commonly-used-for/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/2d-echo/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Karur.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/endoscopy/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/ultrasound/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Karaigudi.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/coronary-angiogram/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/pft/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2837%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/sites/default/files/styles/16_9_medium/public/2025-01/orthopedics.jpg.webp?h=f5f8f50d&itok=I0PeYyC_",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/book-second-opinion/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/345",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Kochi.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/344",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/openForm",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/346",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/347",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/349",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/350",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/353",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Kolkata.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/352",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/351",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/419",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3138",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/department-coe-pages/apollo-institute-gastroenterology-advanced-care-your-digestive-health",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3137",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Kakinada.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Madurarai.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/ecg/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/image%20%2834%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Indore2.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/sgpt-test/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/abnormal-liver-function-tests-lfts/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Mysore%20%281%29.jpg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_desktop/public/2025-01/Apollo%20Neuro%20Conclave%202024.png.webp?itok=9Vk_ZBPo",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_desktop/public/2025-01/500%20Robotic%20Cardiac_1.png.webp?itok=6ysChtvS",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-01/transplant.jpg.webp?itok=ZlpwROlU",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_desktop/public/2025-01/Store%20Network.png.webp?itok=pzIL6JuJ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-01/gastrology.jpg.webp?itok=FVKl-4dE",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-02/lucknow_1.jpg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/cbc-hemogram-test/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_desktop/public/2025-01/Apollo%20University%20launch.png.webp?itok=kAiTEfWP",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/locations/india",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Nashik.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Mr-Shankar%E2%80%99s-successful-recovery-from-Parkinson%E2%80%99s-Disease-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_05_52_PM.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Untitled3.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Untitled9.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Untitled.png.webp?itok=_InBH1-y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Mr-Shankar%E2%80%99s-successful-recovery-from-Parkinson%E2%80%99s-Disease-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_05_52_PM.png.webp?itok=3NaIjnm7",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Guwahati.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Robotic-Heart-Surgery-Saves-66-Year-Old-Patient-Life-Successful-Heart-Surgery-By-Dr-Varun-Bansal-YouTube-29-01-2025_05_59_PM_4.png.webp?itok=PMAsaQBl",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Pituitary-Tumor-Success-Full-Treatment-Patient-Sujata-Story-Apollo-Hospital-Delhi-YouTube-29-01-2025_05_40_PM.png.webp?itok=6TR3y-0M",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/bilaspur/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Ms-Neeraj-Sehgal-Successful-Recovered-After-Robotic-Surgery-For-Uterine-Cancer-YouTube-29-01-2025_06_29_PM.png.webp?itok=sRQuz-P1",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Mumbai.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Ovarian-Dermoid-Cyst-Removed-Patient-Story-Painless-Ovarian-Cyst-Removal-Surgery-YouTube-29-01-2025_06_20_PM_1.png.webp?itok=4CYoY7x0",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Bhubaneswar_Main.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Robotic-Heart-Surgery-Saves-66-Year-Old-Patient-Life-Successful-Heart-Surgery-By-Dr-Varun-Bansal-YouTube-29-01-2025_05_59_PM_4.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Delhi2.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Chennai.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/large/public/2025-02/Image.jpg.webp?itok=lUuxNoMf",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Grateful-Safe-Ms-Sunitha-Shares-Her-Heartfelt-Experience-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_35_PM_1.png.webp?itok=XZM0g_gG",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Mr-Shankar%E2%80%99s-successful-recovery-from-Parkinson%E2%80%99s-Disease-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_05_52_PM.png.webp?itok=3f4sjQJ-",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Ms-Neeraj-Sehgal-Successful-Recovered-After-Robotic-Surgery-For-Uterine-Cancer-YouTube-29-01-2025_06_29_PM.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Untitled.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Grateful-Safe-Ms-Sunitha-Shares-Her-Heartfelt-Experience-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_35_PM_1.png.webp?itok=zABsgJ_n",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-01/gastrology.jpg.webp?itok=ePKe5I97",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/apollo-news/the-apollo-university-and-apollo-hospitals-partner-with-the-university-of-leicester-to-establish-the-centre-for-digital-health-and-precision-medicine-in-india/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Untitled8.png.webp?itok=2B3BLtUy",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Mr-Haider%E2%80%99s-Successful-Heart-Treatment-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_51_PM%20%281%29.png.webp?itok=1F3UYU1Y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Untitled9.png.webp?itok=Q1T82xKi",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/apollo-in-the-news/pioneering-precision-medicine-new-research-hub-opens-at-apollo-university/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Karimnagar.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Nellor.jpeg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/apollo-in-the-news/apollo-hospitals-takes-up-a-4-5-hour-stroke-treatment-promise-with-advanced-stroke-care-network-with-extended-24-hour-treatment-window/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/bangalore/apollo-neuro-conclave-2024/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_mobile/public/2025-01/Apollo%20University%20launch.png.webp?itok=f5XcRD4I",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_mobile/public/2025-01/Store%20Network.png.webp?itok=H27O7FGb",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_mobile/public/2025-01/500%20Robotic%20Cardiac_1.png.webp?itok=h1HG7M2y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Untitled8.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Untitled1.png.webp?itok=UaWbHht3",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/apollo-in-the-news/apollo-hospitals-achieves-major-milestone-in-cardiac-care-with-500-robotic-cardiac-procedures/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%20%288%29.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Untitled.png.webp?itok=kE9iTgoU",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_mobile/public/2025-01/Apollo%20Neuro%20Conclave%202024.png.webp?itok=6YWEDj-P",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Mr-Haider%E2%80%99s-Successful-Heart-Treatment-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_51_PM%20%281%29.png.webp?itok=xO0toW-a",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%20%281%29.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Mr-Haider%E2%80%99s-Successful-Heart-Treatment-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_51_PM%20%281%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%20%2811%29_1.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Untitled8.png.webp?itok=ahAK58lP",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Untitled1.png.webp?itok=_077Y5qJ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/facebook.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Grateful-Safe-Ms-Sunitha-Shares-Her-Heartfelt-Experience-Apollo-Hospitals-Greams-Road-Chennai-YouTube-29-01-2025_06_35_PM_1.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Ovarian-Dermoid-Cyst-Removed-Patient-Story-Painless-Ovarian-Cyst-Removal-Surgery-YouTube-29-01-2025_06_20_PM_1.png.webp?itok=QFFm2iMH",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-11/Group%201171277886.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Untitled3.png.webp?itok=-nwLFcfT",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%2057.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/themes/custom/apollo/assets/svg/apollo-logo.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Untitled9.png.webp?itok=v-Bx-GYk",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-11/linkedin.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_mobile/public/2025-01/Pituitary-Tumor-Success-Full-Treatment-Patient-Sujata-Story-Apollo-Hospital-Delhi-YouTube-29-01-2025_05_40_PM.png.webp?itok=6mE1F5FJ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Pituitary-Tumor-Success-Full-Treatment-Patient-Sujata-Story-Apollo-Hospital-Delhi-YouTube-29-01-2025_05_40_PM.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_mobile/public/2025-01/Precision%20Medicine.png.webp?itok=b487-WkV",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Ms-Neeraj-Sehgal-Successful-Recovered-After-Robotic-Surgery-For-Uterine-Cancer-YouTube-29-01-2025_06_29_PM.png.webp?itok=qf4-IOTY",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-11/youtube.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Ovarian-Dermoid-Cyst-Removed-Patient-Story-Painless-Ovarian-Cyst-Removal-Surgery-YouTube-29-01-2025_06_20_PM_1.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3139",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-11/instagram%20%281%29.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3142",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%20%282%29.svg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Robotic-Heart-Surgery-Saves-66-Year-Old-Patient-Life-Successful-Heart-Surgery-By-Dr-Varun-Bansal-YouTube-29-01-2025_05_59_PM_4.png.webp?itok=bo_BSqus",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3140",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3143",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/news_desktop/public/2025-01/Precision%20Medicine.png.webp?itok=-YmK9QnQ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/testimonial_desktop/public/2025-01/Untitled3.png.webp?itok=XUZ-EJ4y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2024-12/image%2055.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.apollo.patientapp",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A124",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/transplantation/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/ent/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/robotics-surgery/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/styles/16_9_medium/public/2025-02/Image.jpg.webp?itok=9uTlmFU8",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.instagram.com/theapollohospitals/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://apps.apple.com/in/app/apollo-247-health-medicine/id1496740273",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/critical-care/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/car-t-cell-therapy/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/bone-marrow-transplant/indications/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/2025-01/Untitled1.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/coronary-artery-bypass-grafting-cabg/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/laparoscopic-cholecystectomy/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.facebook.com/TheApolloHospitals",
+      "status": 400,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/bhubaneswar/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.youtube.com/user/apollohospitalsindia",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/understanding-kidney-transplants/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/js/js_MyYrTX2B23ip3nkA2llg_7FK8q_eQxnErIGc1wu5mDM.js?scope=footer&delta=0&language=en&theme=apollo&include=eJyNkUFywyAMRS8UwbSrXkcG2SUREhG4E-f0JWN7phvabkDi_S9GEsbYFGXzeARuNpV2waLM6ifVW5IFsBRN0jJJg1ktn3xhnZDPLGvsSVAjHzQXlS6vbocAM97rEC6WIoSGQ8EnmcKEImRDTcq4EDR6NJhYww0qp0gGqVEef937IhNk6L49-OouPcxDW5_FOoa_TuKPyrVQSMipbRDQ4n90PytGWwuyix3p4vCKj_397NNd7ytZX_Rrj4zPzb-OSyWm0N79cbv09iGO5BvBtM_H",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/abdominal-hysterectomy/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/extracorporeal-shockwave-lithotripsy/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/348",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3141",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/taxonomy/term/3136",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/transplantation",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/js/js_EpDr-ZI8K5q7v6Fz4O5oPEiTcBJQMDWf-pL5Ytr1Zcg.js?scope=footer&delta=4&language=en&theme=apollo&include=eJyNkUFywyAMRS8UwbSrXkcG2SUREhG4E-f0JWN7phvabkDi_S9GEsbYFGXzeARuNpV2waLM6ifVW5IFsBRN0jJJg1ktn3xhnZDPLGvsSVAjHzQXlS6vbocAM97rEC6WIoSGQ8EnmcKEImRDTcq4EDR6NJhYww0qp0gGqVEef937IhNk6L49-OouPcxDW5_FOoa_TuKPyrVQSMipbRDQ4n90PytGWwuyix3p4vCKj_397NNd7ytZX_Rrj4zPzb-OSyWm0N79cbv09iGO5BvBtM_H",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/gastroenterology/treatment/liver-transplants/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/heart",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A26",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/neurology-neurosurgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/oncology",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/gastroenterology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/pediatrics",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/orthopedic",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/pulmonology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/robotics-surgery/robotic-surgical-procedures/robotics-in-spine-surgery/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/vascular-surgery",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal-cdn-hfaeddcdbng5hfbg.a01.azurefd.net/sites/default/files/js/js_87ykOXTGQZrgnMMYqSUNTar1oLlcjeK3SP7Jr9RMV6A.js?scope=footer&delta=2&language=en&theme=apollo&include=eJyNkUFywyAMRS8UwbSrXkcG2SUREhG4E-f0JWN7phvabkDi_S9GEsbYFGXzeARuNpV2waLM6ifVW5IFsBRN0jJJg1ktn3xhnZDPLGvsSVAjHzQXlS6vbocAM97rEC6WIoSGQ8EnmcKEImRDTcq4EDR6NJhYww0qp0gGqVEef937IhNk6L49-OouPcxDW5_FOoa_TuKPyrVQSMipbRDQ4n90PytGWwuyix3p4vCKj_397NNd7ytZX_Rrj4zPzb-OSyWm0N79cbv09iGO5BvBtM_H",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://static.addtoany.com/menu/page.js",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/emergency-trauma-care-services",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/transplantation/lung/",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/urology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/general-medicine",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/diseases-and-conditions/brain-tumour",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/diseases-and-conditions/stroke-types-symptoms-and-treatment",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/disease-and-condition/hernia",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/cosmetology-plastic-surgery",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/radiology-imaging",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/total-hip-replacement-surgery",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.youtube.com/iframe_api",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/total-knee-replacement",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/departments/transplantation/transplant-disclaimer/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A122",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/excellence-eye-care",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/minimally-invasive-knee-replacement-surgery",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/procedures/understanding-transcatheter-aortic-valve-replacement-%28TAVR%29",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/diagnostics-investigations/abnormal-kidney-function-tests-kfts/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.apollohospitals.com/corporate/procedures/laparoscopic-cholecystectomy/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://www.linkedin.com/company/apollo-hospitals",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://twitter.com/HospitalsApollo",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://www.apollohospitals.com/departments/obstetrics-and-gynaecology",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A555",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=a",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A56",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/doctors?f%5B0%5D=speciality%3A51",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=b",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=d",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=c",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=f",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=e",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=k",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=l",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=j",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=i",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=g",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=h",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=q",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=s",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=p",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=o",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/department-coe-pages/apollo-institutes-orthopedics-excellence-bone-and-joint-care",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-reach-hospital-karimnagar",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/terms",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/awards-accolades/management",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/hospitals-in-south-india",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=m",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/departments/emergency-trauma-care-services-1",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/careers/recruitment-disclaimer",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/hospitals/apollo-hospitals-navi-mumbai",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/departments/heart/stent-prices-disclosure/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/academics-research/clinical-research/recognition-of-published-papers/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/investor-relations/financial-reports",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/corporate-actions",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/academics-research",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=x",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/patient-care/clinical-quality-and-outcomes/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/academics-research/clinical-research/recognition-of-published-papers",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/international-patient-services/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/corporate/careers/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/book-doctor-appointment/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/corporate/departments/transplantation/transplant-disclaimer/",
+      "status": 404,
+      "state": "BROKEN",
+      "parent": "https://drupal.apollohospitals.com/"
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=n",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=z",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=r",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=u",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=w",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=t",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    },
+    {
+      "url": "https://drupal.apollohospitals.com/diseases-and-conditions?key=v",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://drupal.apollohospitals.com/",
+      "failureDetails": []
+    }
+  ],
+  "passed": false
+}
