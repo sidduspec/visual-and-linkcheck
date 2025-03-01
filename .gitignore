@@ -1,4 +1,5 @@
 node_modules
-cypress-image-diff-html-report/*
+cypress-image-diff-html-report
 cypress-image-diff-screenshots
 cypress/screenshots
+cypress/reports

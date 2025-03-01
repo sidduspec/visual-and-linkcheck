@@ -25,9 +25,8 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 Cypress.Commands.add("checkBrokenLinks", () => {
-    cy.task("runLinkChecker").then((result) => {
-      cy.log('Fetched data:', data);
-      cy.log(result); // Log the result in Cypress UI
-    });
+  cy.task("runLinkChecker").then((result) => {
+    cy.log(result);
+    expect(result).to.include("Report generated");
   });
-  
+});
