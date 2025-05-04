@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "run-link-check": "cypress run --spec cypress/e2e/a.linkChecker.js",
     "generate_visual_test_html": "cypress-image-diff-html-report generate"
   },
   "author": "",
