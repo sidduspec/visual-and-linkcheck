@@ -3,11 +3,12 @@ const fs = require("fs-extra"); // Ensure we use fs-extra for recursive folder c
 const path = require("path");
 const { exec } = require("child_process");
 const getCompareSnapshotsPlugin = require("cypress-image-diff-js/plugin");
-const { parse } = require("json2csv");
+const { filterUrlsFromCSV } = require('./cypress/support/parseLinkReport');
+const { generateVisualUrlsJson } = require('./cypress/support/generateVisualTestURLJson');
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://www.apollohospitals.com/",
+    baseUrl: "https://cpeonline.com/",
     specPattern: ["cypress/e2e/**/*.js"],
     setupNodeEvents(on, config) {
       getCompareSnapshotsPlugin(on, config);
@@ -65,6 +66,14 @@ module.exports = defineConfig({
             });
           });
         },
+        getFilteredUrls() {
+          const urls = filterUrlsFromCSV('cypress/reports/link-checks.csv', config.baseUrl);
+          fs.writeFileSync('cypress/fixtures/visual_test_urls.json', JSON.stringify(urls, null, 2));
+          return urls;
+        },
+        generateVisualTestJson({ csvPath, baseUrl, outputPath }) {
+          return generateVisualUrlsJson(csvPath, baseUrl, outputPath).then(() => null);
+        }
       });
 
       return config;

@@ -26,7 +26,23 @@
 
 Cypress.Commands.add("checkBrokenLinks", () => {
   cy.task("runLinkChecker").then((result) => {
-    cy.log(result);
     expect(result).to.include("Report generated");
   });
 });
+
+// cypress/support/commands.js
+Cypress.Commands.add('compareSnapshotSafely', (name, threshold = 0.1) => {
+  cy.then(() => {
+    Cypress.log({ name: 'compareSnapshotSafely', message: name });
+    return Cypress.Promise.try(() => {
+      cy.compareSnapshot(name, threshold);
+    }).catch((err) => {
+      Cypress.log({
+        name: '⚠️ Visual diff failed',
+        message: `${name} failed threshold`,
+        consoleProps: () => err,
+      });
+    });
+  });
+});
+

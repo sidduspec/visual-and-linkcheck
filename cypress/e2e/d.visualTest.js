@@ -1,8 +1,8 @@
-import urlsData from "../fixtures/sullivanny.json";
+import urlsData from "../fixtures/cpelive.json";
 
 describe("Visual Regression Test", () => {
   Object.entries(urlsData.pages).forEach(([pageName, url]) => {
-    it.only(`Visual test for ${pageName}`, () => {
+    it(`Visual test for ${pageName}`, () => {
       cy.visit(url);
       /* 
         Uncomment this line if the header is floating with the scroll

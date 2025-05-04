@@ -1,5 +1,5 @@
 describe("Fetch Cache Headers from Sitemap URLs", () => {
-  const sitemapUrl = "https://www.cpeonline.com/sitemap.xml";
+  const sitemapUrl = "https://migration.townofng.com/sitemap";
   const csvFilePath = "cypress/reports/cache_headers.csv";
 
   // Write CSV header before test starts
