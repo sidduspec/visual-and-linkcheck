@@ -4,8 +4,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run-link-check": "cypress run --spec cypress/e2e/a.linkChecker.js",
-    "generate_visual_test_html": "cypress-image-diff-html-report generate"
+    "link-check": "cypress run --spec cypress/e2e/a.linkChecker.js",
+    "generate-json-for-visual-test": "cypress run --spec cypress/e2e/c.generateVisualTestJson.js",
+    "visual-test": "cypress run --spec cypress/e2e/d.visualTest.js",
+    "generate_visual_test_html": "cypress-image-diff-html-report generate",
+    "cache-validator": "cypress run --spec cypress/e2e/b.cache_validator_fixture.js"
   },
   "author": "",
   "license": "ISC",

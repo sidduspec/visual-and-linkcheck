@@ -8,7 +8,7 @@ const { generateVisualUrlsJson } = require('./cypress/support/generateVisualTest
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://cpeonline.com/",
+    baseUrl: "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
     specPattern: ["cypress/e2e/**/*.js"],
     setupNodeEvents(on, config) {
       getCompareSnapshotsPlugin(on, config);

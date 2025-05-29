@@ -48,7 +48,7 @@ export function fetchAndLogCacheHeaders(pageUrl, csvFilePath) {
   }
   
   export function writeCacheResultToCSV(data, filePath) {
-    const line = `${data.url},${data.cacheControl},${data.xCache},${data.xDrupalCache},${data.xDrupalDynamicCache},${data.status}\n`;
+    const line = `${data.url},${data.cacheControl},${data.xDrupalCache},${data.xDrupalDynamicCache},${data.status}\n`;
     cy.writeFile(filePath, line, { flag: "a+" });
   }
   

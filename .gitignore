@@ -4,3 +4,4 @@ cypress-image-diff-screenshots
 cypress/screenshots
 cypress/reports
 cypress/videos
+cypress/fixtures/Archives

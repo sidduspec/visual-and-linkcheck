@@ -1,855 +1,728 @@
 {
   "links": [
     {
-      "url": "https://cpeonline.com/",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "status": 200,
       "state": "OK",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/themes/custom/cpe/favicon.ico",
+      "url": "https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/splide-core.min.css",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/css/css_n4cp3Q0DPNRTml-fvnuZZAEKM4BpLCnqivpRN0jPIEc.css?delta=0&language=en&theme=cpe&include=eJyFUVtuxCAMvBAEqRdCDngTtIARNu3m9iUk7W6lpv2B8YPxjAHvhSBvBk4w3SplUY4qGkepUMYsPLmCWs9NhPLvNQfVs46BJeTlqkVwobqN3ouWu0YfhOpFmVpl_OP9LUTB-n_fiuC7Tu2RXQ1FwpUtgYVVR2aO5O5W8CEj_PJi9xl2t32kBc4t6W-mUcBHiZ3_VHZQLpFmiAOulFAzQnWrHpNGdqfV7wE_-CWZMDd7I-o-R1ygSsbKNtJCTyUFmC04h3wMYwE5kGD_o0Q5QHyhbaUL3ldyKuzOH5QpbT-qw-6gsShrcGyeUHUlsFQoKxtfW4E4PTNTy6XNXd2KXjFGdPJmznvqzIr7pycbYaMmdm4heqzmCCf5IEdR8caCyczAqMZWzDinRL5F_ATu8hHl",
+      "url": "https://www.googletagmanager.com/ns.html?id=GTM-5FKQBVF2",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-large.webp",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/themes/custom/drl_nerivio_spain/apps/drupal/favicon.ico",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://www.facebook.com/tr?id=1849293012232753&ev=PageView&noscript=1",
+      "url": "https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/js/splide.min.js",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/css/css_mhfeJstteBxiwFhNUs6CgufYtd1SjvQP4IqwyAIgWUk.css?delta=4&language=en&theme=cpe&include=eJyFUVtuxCAMvBAEqRdCDngTtIARNu3m9iUk7W6lpv2B8YPxjAHvhSBvBk4w3SplUY4qGkepUMYsPLmCWs9NhPLvNQfVs46BJeTlqkVwobqN3ouWu0YfhOpFmVpl_OP9LUTB-n_fiuC7Tu2RXQ1FwpUtgYVVR2aO5O5W8CEj_PJi9xl2t32kBc4t6W-mUcBHiZ3_VHZQLpFmiAOulFAzQnWrHpNGdqfV7wE_-CWZMDd7I-o-R1ygSsbKNtJCTyUFmC04h3wMYwE5kGD_o0Q5QHyhbaUL3ldyKuzOH5QpbT-qw-6gsShrcGyeUHUlsFQoKxtfW4E4PTNTy6XNXd2KXjFGdPJmznvqzIr7pycbYaMmdm4heqzmCCf5IEdR8caCyczAqMZWzDinRL5F_ATu8hHl",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/css/css_MOj1AM04PS6Ik6EhTH2tCVbPSvI1_Y1gGRlikTRAfzU.css?delta=2&language=en&theme=cpe&include=eJyFUVtuxCAMvBAEqRdCDngTtIARNu3m9iUk7W6lpv2B8YPxjAHvhSBvBk4w3SplUY4qGkepUMYsPLmCWs9NhPLvNQfVs46BJeTlqkVwobqN3ouWu0YfhOpFmVpl_OP9LUTB-n_fiuC7Tu2RXQ1FwpUtgYVVR2aO5O5W8CEj_PJi9xl2t32kBc4t6W-mUcBHiZ3_VHZQLpFmiAOulFAzQnWrHpNGdqfV7wE_-CWZMDd7I-o-R1ygSsbKNtJCTyUFmC04h3wMYwE5kGD_o0Q5QHyhbaUL3ldyKuzOH5QpbT-qw-6gsShrcGyeUHUlsFQoKxtfW4E4PTNTy6XNXd2KXjFGdPJmznvqzIr7pycbYaMmdm4heqzmCCf5IEdR8caCyczAqMZWzDinRL5F_ATu8hHl",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/css/css_LIonmU34sLPYNIlQWfH28wM74Y-Jhbo_iycBW13dGng.css?delta=3&language=en&theme=cpe&include=eJyFUVtuxCAMvBAEqRdCDngTtIARNu3m9iUk7W6lpv2B8YPxjAHvhSBvBk4w3SplUY4qGkepUMYsPLmCWs9NhPLvNQfVs46BJeTlqkVwobqN3ouWu0YfhOpFmVpl_OP9LUTB-n_fiuC7Tu2RXQ1FwpUtgYVVR2aO5O5W8CEj_PJi9xl2t32kBc4t6W-mUcBHiZ3_VHZQLpFmiAOulFAzQnWrHpNGdqfV7wE_-CWZMDd7I-o-R1ygSsbKNtJCTyUFmC04h3wMYwE5kGD_o0Q5QHyhbaUL3ldyKuzOH5QpbT-qw-6gsShrcGyeUHUlsFQoKxtfW4E4PTNTy6XNXd2KXjFGdPJmznvqzIr7pycbYaMmdm4heqzmCCf5IEdR8caCyczAqMZWzDinRL5F_ATu8hHl",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/css/css_RvJ77rzB78laNdpgmRSKBP1MWsKvkbEvSPfwsVUlJyU.css?delta=1&language=en&theme=cpe&include=eJyFUVtuxCAMvBAEqRdCDngTtIARNu3m9iUk7W6lpv2B8YPxjAHvhSBvBk4w3SplUY4qGkepUMYsPLmCWs9NhPLvNQfVs46BJeTlqkVwobqN3ouWu0YfhOpFmVpl_OP9LUTB-n_fiuC7Tu2RXQ1FwpUtgYVVR2aO5O5W8CEj_PJi9xl2t32kBc4t6W-mUcBHiZ3_VHZQLpFmiAOulFAzQnWrHpNGdqfV7wE_-CWZMDd7I-o-R1ygSsbKNtJCTyUFmC04h3wMYwE5kGD_o0Q5QHyhbaUL3ldyKuzOH5QpbT-qw-6gsShrcGyeUHUlsFQoKxtfW4E4PTNTy6XNXd2KXjFGdPJmznvqzIr7pycbYaMmdm4heqzmCCf5IEdR8caCyczAqMZWzDinRL5F_ATu8hHl",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://www.googletagmanager.com/gtag/js?id=-",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://embed.typeform.com/next/embed.js",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_md/public/2024-10/topics.webp?h=e75ab034&itok=BSeRgJEh",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/logo.png",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/search",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.SP",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_md_mobile/public/2024-10/topics.webp?h=e75ab034&itok=Pn8G0gnJ",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.INT",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/si",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/conferences",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/accounting-for-digital-assets-?coursetype=live-webinar",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/form-1040-a-hands-on-workshop?coursetype=live-webinar",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/policies",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-large.jpg",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_mobile/public/2024-10/Combo%20Pass_0.jpg.webp?itok=CPtoXPAP",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xl/public/2024-10/a524a9dee75210576d203a1d89849eb9.webp?h=ce8544ae&itok=dsNNxkJQ",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/ethics-for-cpas?coursetype=live-webinar",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/financial-accounting-reporting-conference-an-update-for-corporate-accountants?coursetype=self-study",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/accounting-for-digital-assets-",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/re",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-small.jpg",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-medium.jpg",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/js/js__lUT1FutjHoFko42lB5ROb_ohzl74H_6yMAgf_Q9MlY.js?scope=footer&delta=0&language=en&theme=cpe&include=eJyNjcFuwzAMQ38otbGd9jeGKrOZNlXKLKdY9vVrnAC77kI9kARFtXYn2zKdkG7NrU-sAushFeVBKpW6uJWPrxVty_xIByW54b_VM3v2F2R8L-oNF_a1BWJ4s_qVdOBCEYWYEUfUEV3ubkJ6uarz53DXhf0uNhemVkexoL8LR_7D4c4wNOHcELBa1Gexwl6Px-W5IftGz7tMSj9b3mUKKLi_5vMmeXmzBPsF6M53Nw",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/au",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/compilations-reviews-a-practical-approach?coursetype=self-study",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/compilations-reviews-a-practical-approach",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/js/js_R7eNIu8F862a8KfOI3FyxXr93OLRQYvtR97eTFU8jwo.js?scope=footer&delta=3&language=en&theme=cpe&include=eJyNjcFuwzAMQ38otbGd9jeGKrOZNlXKLKdY9vVrnAC77kI9kARFtXYn2zKdkG7NrU-sAushFeVBKpW6uJWPrxVty_xIByW54b_VM3v2F2R8L-oNF_a1BWJ4s_qVdOBCEYWYEUfUEV3ubkJ6uarz53DXhf0uNhemVkexoL8LR_7D4c4wNOHcELBa1Gexwl6Px-W5IftGz7tMSj9b3mUKKLi_5vMmeXmzBPsF6M53Nw",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/user/login?destination=/homepage",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/js/js_-5HXQWuF0SIxZrjnsaY_rivQp3sb3Wst01HDGFXLXeg.js?scope=footer&delta=5&language=en&theme=cpe&include=eJyNjcFuwzAMQ38otbGd9jeGKrOZNlXKLKdY9vVrnAC77kI9kARFtXYn2zKdkG7NrU-sAushFeVBKpW6uJWPrxVty_xIByW54b_VM3v2F2R8L-oNF_a1BWJ4s_qVdOBCEYWYEUfUEV3ubkJ6uarz53DXhf0uNhemVkexoL8LR_7D4c4wNOHcELBa1Gexwl6Px-W5IftGz7tMSj9b3mUKKLi_5vMmeXmzBPsF6M53Nw",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/search?filter%5B0%5D=credits%3A%28min%3A2.5%2Cmax%3A4%29",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/ethics-for-cpas",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/js/js_w5hADiPhMjIAVbbyeeT8I5D1z8V4zhwrk3Ux5XgDSbU.js?scope=footer&delta=2&language=en&theme=cpe&include=eJyNjcFuwzAMQ38otbGd9jeGKrOZNlXKLKdY9vVrnAC77kI9kARFtXYn2zKdkG7NrU-sAushFeVBKpW6uJWPrxVty_xIByW54b_VM3v2F2R8L-oNF_a1BWJ4s_qVdOBCEYWYEUfUEV3ubkJ6uarz53DXhf0uNhemVkexoL8LR_7D4c4wNOHcELBa1Gexwl6Px-W5IftGz7tMSj9b3mUKKLi_5vMmeXmzBPsF6M53Nw",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Evening%20and%20Weekend%20Pass_0.webp?h=13087308&itok=En-TU048",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Self-Study%20Pass.jpg?h=13087308&itok=IOf0Oyro",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://static.addtoany.com/menu/page.js",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/taxonomy/term/151385",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/search?filter%5B0%5D=credits%3A%28min%3A10%2Cmax%3A20.5%29",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/ma",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.IND",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-small.webp",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.ML",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Combo%20Pass_0.webp?h=13087308&itok=jnJf-5gV",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xl/public/2024-10/a524a9dee75210576d203a1d89849eb9.png?h=ce8544ae&itok=dsNNxkJQ",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/modules/custom/cpe_generic/js/resend_login_codes.js?v=1.x",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/index.php/seminars/alltopics/TAX.IND",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Evening%20and%20Weekend%20Pass_0.jpg?h=13087308&itok=En-TU048",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xl_mobile/public/2024-10/a524a9dee75210576d203a1d89849eb9.png?h=ce8544ae&itok=Vof-n2ij",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://px.ads.linkedin.com/collect/?pid=261050&fmt=gif",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cdn.brevo.com/js/sdk-loader.js",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://www.youtube.com/channel/UCijAyMPl7tJ_Xu3hcK7DqNg",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.P",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/webinars",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_sm/public/2024-10/year.png?h=306cb307&itok=ARfiXr4C",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/ethics-for-cpas?coursetype=self-study",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xs/public/2024-10/year.webp?h=306cb307&itok=rZxkbw7C",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.ET",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg.jpg",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_mobile/public/2024-10/Anytime%20Pass_0.jpg.webp?itok=CThttH53",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/financial-accounting-reporting-conference-an-update-for-corporate-accountants?coursetype=virtual-conference",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Anytime%20Pass_0.webp?h=13087308&itok=EBf1cvev",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://cpeonline.com/compilations-reviews-a-practical-approach?coursetype=live-webinar",
-      "status": 200,
-      "state": "OK",
-      "parent": "https://cpeonline.com/",
-      "failureDetails": []
-    },
-    {
-      "url": "https://www.facebook.com/CTRForProfessionalEducation",
-      "status": 400,
+      "url": "https://www.nerivio.eu/es-es/politica-de-privacidad",
+      "status": 403,
       "state": "BROKEN",
-      "parent": "https://cpeonline.com/"
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es"
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Anytime%20Pass_0.jpg?h=13087308&itok=EBf1cvev",
+      "url": "https://www.nerivio.de/",
+      "status": 403,
+      "state": "BROKEN",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es"
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/css/css_0jUu2ZYXGfGM1-RfUcuKgBNPGDybODcmhCeo4nTylts.css?delta=0&language=es&theme=drl_nerivio_spain&include=eJyFUtGSgyAM_CFTPomJkLO5i4kDaOvfH1Z9uA72XmCyu7DJbIIlcjHNE8oNv_HZxcQjDhv2umstXinxwubzhKyuFws_8GVWKEGhZ2loAqZ4AUM9bM4kLb5204B3r0sCSCOIDdZUpDE38DthrC9zWYV1aAgUhBYSGEnnFr1XcNnaKdiNPgqSQY-qH1VXYfzh4cHlDgWb8xzCf-bKwu12L4Le4PpXZOwEdfAx2RTtoW6r4Kxgi6EKVpuL72eW6uHKw4KJzxQKm55s5BxsobQ6U6p8V30C-be3LbDLay40uh4zdTP7CUuNRvOxJb5uid-25HYQ_g3_BQKgM-k",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/about",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/modules/contrib/seckit/js/seckit.document_write.js",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/tof",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/adolescentes-y-padres",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/accounting-for-digital-assets-?coursetype=self-study",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/css/css_YGGzRDQa7dilsrc19RejaDH2UODOAjZBAnPb9F8gkXw.css?delta=3&language=es&theme=drl_nerivio_spain&include=eJyFUtGSgyAM_CFTPomJkLO5i4kDaOvfH1Z9uA72XmCyu7DJbIIlcjHNE8oNv_HZxcQjDhv2umstXinxwubzhKyuFws_8GVWKEGhZ2loAqZ4AUM9bM4kLb5204B3r0sCSCOIDdZUpDE38DthrC9zWYV1aAgUhBYSGEnnFr1XcNnaKdiNPgqSQY-qH1VXYfzh4cHlDgWb8xzCf-bKwu12L4Le4PpXZOwEdfAx2RTtoW6r4Kxgi6EKVpuL72eW6uHKw4KJzxQKm55s5BxsobQ6U6p8V30C-be3LbDLay40uh4zdTP7CUuNRvOxJb5uid-25HYQ_g3_BQKgM-k",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/TAX.CORP",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w_2x/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png.webp?itok=3lIKS9l9",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://www.nasbaregistry.org/",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/estudios",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_mobile/public/2024-10/Self-Study%20Pass.jpg.webp?itok=Xy9eoRCY",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/modules/contrib/seckit/css/seckit.no_body.css",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/search?filter%5B0%5D=credits%3A%28min%3A4.5%2Cmax%3A7.5%29",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/modules/contrib/seckit/css/seckit.noscript_tag.css",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/themes/custom/cpe/assets/media/backgrounds/category-bg-medium.webp",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/519390118_master.jpg?itok=D9WxOkvp",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/mas",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/themes/custom/drl_nerivio_spain/dist/app-drupal/images/es_flag.svg",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/search?filter%5B0%5D=credits%3A%28min%3A0%2Cmax%3A2%29",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-2_2.png.webp?itok=AzeCTftb",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_sm/public/2024-10/year.webp?h=306cb307&itok=ARfiXr4C",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png?itok=LcfBZkEM",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/pfpim",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png?itok=juD9XCM2",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_md/public/2024-10/topics.png?h=e75ab034&itok=BSeRgJEh",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w_2x/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png?itok=3lIKS9l9",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/npgaa",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w/public/2024-04/519390118_master.jpg?itok=IDxK0C7R",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/taxonomy/term/151387",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-3_2.png.webp?itok=iAt_nHFP",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/form-1040-a-hands-on-workshop",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/css/css_wq5Lq2711tK_ixh1xcNniDdxq428FKoFRNlJYX0Ctck.css?delta=1&language=es&theme=drl_nerivio_spain&include=eJyFUtGSgyAM_CFTPomJkLO5i4kDaOvfH1Z9uA72XmCyu7DJbIIlcjHNE8oNv_HZxcQjDhv2umstXinxwubzhKyuFws_8GVWKEGhZ2loAqZ4AUM9bM4kLb5204B3r0sCSCOIDdZUpDE38DthrC9zWYV1aAgUhBYSGEnnFr1XcNnaKdiNPgqSQY-qH1VXYfzh4cHlDgWb8xzCf-bKwu12L4Le4PpXZOwEdfAx2RTtoW6r4Kxgi6EKVpuL72eW6uHKw4KJzxQKm55s5BxsobQ6U6p8V30C-be3LbDLay40uh4zdTP7CUuNRvOxJb5uid-25HYQ_g3_BQKgM-k",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xs/public/2024-10/year.png?h=306cb307&itok=rZxkbw7C",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/themes/custom/drl_nerivio_spain/dist/app-drupal/images/spain_flag.jpg",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Self-Study%20Pass.webp?h=13087308&itok=IOf0Oyro",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-1_1_1.png.webp?itok=WzAZB0Ad",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/search?filter%5B0%5D=credits%3A%28min%3A8%2Cmax%3A9.5%29",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/politica-de-reembolso",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/taxonomy/term/151386",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/migrana-recursos",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/fa-i",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w_2x/public/2024-04/519390118_master.jpg.webp?itok=TdYh-bSn",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/index.php/taxonomy/term/151386",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/prensa",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/passes",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-1_1_1.png?itok=WzAZB0Ad",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_mobile/public/2024-10/Evening%20and%20Weekend%20Pass_0.jpg.webp?itok=e0i6M9a2",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/para-adolescentes",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/index.php/taxonomy/term/151387",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/seguimiento-de-las-fases-de-la-migrana",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/form-1040-a-hands-on-workshop?coursetype=self-study",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w_2x/public/2024-01/image_36.png.webp?itok=adtJi0zL",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/financial-accounting-reporting-conference-an-update-for-corporate-accountants",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/themes/custom/drl_nerivio_spain/dist/app-drupal/images/nerivio-logo.png",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_md_mobile/public/2024-10/topics.png?h=e75ab034&itok=Pn8G0gnJ",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/como-funciona",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/stats_xl_mobile/public/2024-10/a524a9dee75210576d203a1d89849eb9.webp?h=ce8544ae&itok=Vof-n2ij",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/preguntas-frecuentes",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/contact-us",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-en",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://www.linkedin.com/company/ctrforprofessionaleducation",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png.webp?itok=LcfBZkEM",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/states-listing",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/la-salud-de-las-mujeres",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sponsor-information",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/circulos-de-expertos",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/sites/default/files/styles/pass_access_slider/public/2024-10/Combo%20Pass_0.jpg?h=13087308&itok=jnJf-5gV",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-3_2.png.webp?itok=uSe-3buy",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/cart",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-01/image_36.png?itok=BhdGo2L0",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/index.php/seminars/alltopics/mis",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png?itok=D1uFaCLH",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/render-courses/155933",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png.webp?itok=D1uFaCLH",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/bap",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w_2x/public/2024-04/image%20-%202024-04-15T151513.502.png?itok=CylTpanI",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/render-courses/153865",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-1_1_1.png.webp?itok=1WlUe78Y",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/index.php/ethics",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/MicrosoftTeams-image%20%2815%29_1.png.webp?itok=juD9XCM2",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/sec",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w/public/2024-04/519390118_master.jpg.webp?itok=IDxK0C7R",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/render-courses/156019",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-3_2.png.webp?itok=2EIts-Zn",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/render-courses/155962",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-2_2.png.webp?itok=ayCo-ftS",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/fa",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/ciencia/ensayos-cl%C3%ADnicos",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/index.php/seminars/alltopics/covid",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/sobre-nosotros",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/ethics",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-1_1_1.png.webp?itok=Z1pJEEOm",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/render-courses/155845",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/js/js_IDY7rAh_9fghpRTdFOaArJBh7p-UYbcvB6gja85jKL4.js?scope=footer&delta=0&language=es&theme=drl_nerivio_spain&include=eJx9j9EOgzAIRX-oXT-pQWFdFwSDrdO_XxezB5fOF8i9nAAXLU-QKODRHRpHIctr1rjMkCWMYNiz1Xp0Yh2A_VJ2zpI6wIMAyS4A8UwrsZ9Iam98KH_suQRM_QAil9S_1Avn_vpCW2m_YQaXVBNTLJBCauVX3-AJ29mcHIOkiKYz6kvCR_mv8ne1yZ2uxdkU61jiqLKQlHA5dc0dKTLsWkscauYWIfTMNxpSxnQ",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/ppc",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/impresion",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/seminars/alltopics/md",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w/public/2024-01/image_36.png.webp?itok=8VH6zTk6",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     },
     {
-      "url": "https://cpeonline.com/self-study-webcasts",
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/js/js_TQHEw4SCkXRM3jrBI8J0nOQk4H5vb7sipNcX6VZ1C_U.js?scope=header&delta=0&language=es&theme=drl_nerivio_spain&include=eJx9j9EOgzAIRX-oXT-pQWFdFwSDrdO_XxezB5fOF8i9nAAXLU-QKODRHRpHIctr1rjMkCWMYNiz1Xp0Yh2A_VJ2zpI6wIMAyS4A8UwrsZ9Iam98KH_suQRM_QAil9S_1Avn_vpCW2m_YQaXVBNTLJBCauVX3-AJ29mcHIOkiKYz6kvCR_mv8ne1yZ2uxdkU61jiqLKQlHA5dc0dKTLsWkscauYWIfTMNxpSxnQ",
       "status": 200,
       "state": "OK",
-      "parent": "https://cpeonline.com/",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/themes/custom/drl_nerivio_spain/dist/app-drupal/images/germany_flag.jpg",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w/public/2024-04/image%20-%202024-04-15T151513.502.png.webp?itok=BNZWZQlc",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w_2x/public/2024-04/image%20-%202024-04-15T151513.502.png.webp?itok=CylTpanI",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/modules/contrib/google_tag/js/gtag.js?swnbsb",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/terminos-y-condiciones",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/modules/contrib/google_tag/js/gtm.js?swnbsb",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/politica-de-cookies",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/2024-01/barnd-logo.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/training-videos-spanish",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-3_2.png?itok=2EIts-Zn",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-1_1_1.png?itok=Z1pJEEOm",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-3_2.png?itok=3OLgV-0u",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-1_1_1.png?itok=1WlUe78Y",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/politica-de-privacidad",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/image%20-%202024-04-15T151513.502.png?itok=qBIY73PJ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-01/image_36.png.webp?itok=_o32bmCH",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-1_1_1.png?itok=tttv6-zj",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-2_2.png?itok=STijzbxB",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w/public/2024-04/pill-card-component-2_2.png?itok=ayCo-ftS",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w_2x/public/2024-01/image_36.png?itok=adtJi0zL",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-3_2.png.webp?itok=3OLgV-0u",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/519390118_master.jpg.webp?itok=D9WxOkvp",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-3_2.png?itok=uSe-3buy",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-1_1_1.png.webp?itok=tttv6-zj",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-2_2.png?itok=AzeCTftb",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/519390118_master.jpg?itok=vn_Drd_j",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-2_2.png?itok=r_WoviHq",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/image%20-%202024-04-15T151513.502.png.webp?itok=VkXVhVp-",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-01/image_36.png.webp?itok=BhdGo2L0",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_300w_2x/public/2024-04/pill-card-component-3_2.png?itok=iAt_nHFP",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w/public/2024-01/image_36.png?itok=8VH6zTk6",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/pill-card-component-2_2.png.webp?itok=STijzbxB",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/2024-12/image_8_1.png",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1024w_2x/public/2024-04/519390118_master.jpg?itok=TdYh-bSn",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w/public/2024-04/image%20-%202024-04-15T151513.502.png?itok=VkXVhVp-",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/pill-card-component-2_2.png.webp?itok=r_WoviHq",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/519390118_master.jpg.webp?itok=vn_Drd_j",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_1440w/public/2024-04/image%20-%202024-04-15T151513.502.png?itok=BNZWZQlc",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-01/image_36.png?itok=_o32bmCH",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/styles/scale_343w_2x/public/2024-04/image%20-%202024-04-15T151513.502.png.webp?itok=qBIY73PJ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/pagina-de-inicio",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-en/homepage-spain",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/sites/g/files/nstucr326/files/js/js_iD5dwwma4DdTjXKGWEqoNSIfGGKOTExJ5Dgt_ilfdM0.js?scope=footer&delta=2&language=es&theme=drl_nerivio_spain&include=eJx9j9EOgzAIRX-oXT-pQWFdFwSDrdO_XxezB5fOF8i9nAAXLU-QKODRHRpHIctr1rjMkCWMYNiz1Xp0Yh2A_VJ2zpI6wIMAyS4A8UwrsZ9Iam98KH_suQRM_QAil9S_1Avn_vpCW2m_YQaXVBNTLJBCauVX3-AJ29mcHIOkiKYz6kvCR_mv8ne1yZ2uxdkU61jiqLKQlHA5dc0dKTLsWkscauYWIfTMNxpSxnQ",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://es-shop.nerivio.eu/products/nerivio",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/contactenos-paciente",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
+      "failureDetails": []
+    },
+    {
+      "url": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es/contacto-para-profesionales-sanitarios",
+      "status": 200,
+      "state": "OK",
+      "parent": "https://neriviospain.dev-drreddys.acsitefactory.com/es-es",
       "failureDetails": []
     }
   ],

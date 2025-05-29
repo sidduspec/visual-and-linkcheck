@@ -17,3 +17,14 @@
 import './commands'
 const compareSnapshotCommand  = require('cypress-image-diff-js/command');
 compareSnapshotCommand();
+
+// The name of the cookie holding whether the user has accepted
+const COOKIE_NAME = "OptanonAlertBoxClosed";
+// The value meaning that user has accepted the cookie policy
+const COOKIE_VALUE = "2023-03-01T12:59:55.307Z";
+
+Cypress.on("window:before:load", window => {
+  window.document.cookie = `${COOKIE_NAME}=${COOKIE_VALUE}`;
+});
+
+Cypress.on('uncaught:exception', () => false);

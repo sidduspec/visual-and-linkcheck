@@ -9,7 +9,7 @@ describe("Fetch Cache Headers from Fixture URLs", () => {
     // Write CSV header
     cy.writeFile(
       csvFilePath,
-      "URL,Cache-Control-Age,Cache-Control-State,x-cache,x-drupal-cache,x-drupal-dynamic-cache,Retry-Status\n",
+      "URL,Cache-Control-Age,Cache-Control-State,x-drupal-cache,x-drupal-dynamic-cache,Retry-Status\n",
       { encoding: "utf8" }
     );
 

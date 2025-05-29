@@ -7,7 +7,7 @@ const config ={
     CYPRESS_SCREENSHOT_OPTIONS:{
         capture: "fullPage",
     },
-    NAME_TEMPLATE: "[specName]-[givenName]"
+    NAME_TEMPLATE: "[givenName]"
 }
 
 module.exports = config;
