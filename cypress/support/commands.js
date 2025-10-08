@@ -24,9 +24,18 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-Cypress.Commands.add("checkBrokenLinks", () => {
-  cy.task("runLinkChecker").then((result) => {
-    expect(result).to.include("Report generated");
+Cypress.Commands.add("checkBrokenLinksDomain", () => {
+  cy.task("runLinkChecker", {
+    mode: "domain",
+    baseUrl: Cypress.config('baseUrl'),
+  });
+});
+
+Cypress.Commands.add("checkBrokenLinksJson", (fixture) => {
+  cy.task("runLinkChecker", {
+    mode: "urls",
+    baseUrl: "https://www.semi.org",
+    urlsFile: `cypress/fixtures/${fixture}`,
   });
 });
 
